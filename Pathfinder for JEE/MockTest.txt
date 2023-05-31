@@ -1,0 +1,81 @@
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+a b c a d c b d a c d a
+abcd ab ac ad ab ac acd acd abcd ab ac ad ab ac acd acd a b
+1 2 4 1 2 3 5 6 7
+2.00 5.00 6.00 8.24 9.24 7.25 6.25 5.00 4.12 9.70 8.70 5.00
+
